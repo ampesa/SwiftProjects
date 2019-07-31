@@ -1,0 +1,6 @@
+framework module Pods_colbatechDemo {
+  umbrella header "Pods-colbatechDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
